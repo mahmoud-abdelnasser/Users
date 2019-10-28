@@ -1,12 +1,13 @@
 import React, { Component } from 'react';
-import PokemonSearch from './components/PokemonSearch';
-import './App.css';
+import "./styles/app.scss";
+import Users from './components/Users';
 
 class App extends Component {
   render() {
     return (
       <div className="App">
-        <PokemonSearch name="John Doe" numberOfPokemons={5} />
+        {/* <PokemonSearch name="John Doe" numberOfPokemons={5} /> */}
+        <Users />
       </div>
     );
   }
