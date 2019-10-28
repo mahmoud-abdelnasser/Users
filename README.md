@@ -1,1 +1,13 @@
-Typescript is the best language for enhancing Javascript and adding type safety to it, it forces you to write better code, and for makes writing bigger React apps much more solid.
+# user
+
+This project was bootstrapped with Create React App typescript.
+
+using Reactjs , redux 
+
+## Available Scripts
+In the project directory, you can run:
+
+## yarn install
+then you can run
+
+## npm start
